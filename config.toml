@@ -5,8 +5,8 @@ theme = 'lekh'
 
 [params]
 Name = "Andrew D. Curry"
-About = "I'm a full-stack web developer in the DMV area"
-Email = "andrew.d.curry@gmail.com"
+About = "I'm a full-stack web developer in the DMV area, currently working at Dragos as a Staff Software Engineer since Jan 2018."
+Email = "andrew dot d dot curry at gmail dot com"
 Resume = "" # Add the filename with file extension.
 PostLimit = 4 # Sets the number of posts to display on the front page
 GoatCounterCode = ""
