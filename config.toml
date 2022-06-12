@@ -1,4 +1,20 @@
 baseURL = 'https://acurry.github.io/'
 languageCode = 'en-us'
 title = 'andrew_d_curry_._com'
-theme = 'solar-theme-hugo'
+theme = 'lekh'
+
+[params]
+Name = "Andrew D. Curry"
+About = "I'm a full-stack web developer in the DMV area"
+Email = "andrew.d.curry@gmail.com"
+Resume = "" # Add the filename with file extension.
+PostLimit = 4 # Sets the number of posts to display on the front page
+GoatCounterCode = ""
+
+[[params.profiles]]
+name = "GitHub"
+url = "https://github.com/acurry"
+
+[[params.profiles]]
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/andrew-curry-bb607711/"
