@@ -1,11 +1,31 @@
 # andrew_d_curry_._com
 
-## how to build
+## install hugo
 
-1. Install hugo via `brew`: `brew install hugo`
-2. ...and that's it
+```sh
+$ brew install hugo
+```
+
+## run locally
+
+```sh
+$ hugo server -D
+```
+
+## build for prod
+
+```sh
+$ hugo --minify
+```
+
+## new blog post (draft)
+
+```sh
+$ hugo new posts/initial_post.md
+```
 
 ## theme
 
 [solar](https://themes.gohugo.io/themes/solar-theme-hugo/)
+
 
